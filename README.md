@@ -1,7 +1,7 @@
 # This is the Documentation of JavaScript
 ## Topic 2: Workinig with window.object
 ### How to show alert
-
+kjkjmml;kl;mkl;knnkn
 ~~~
 
 window.alert('Thhis is a Alert Box');
